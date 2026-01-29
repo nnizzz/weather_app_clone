@@ -1,0 +1,1 @@
+A modern Flutter Weather Application that displays current weather conditions and forecasts with clean UI, smooth animations, and responsive layouts. Built to practice Flutter widgets, state management, and API integration.
